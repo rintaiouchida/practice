@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md" style="background-color:red;">
-                    Practice
+                    野獣先輩
                 </div>
 
                 <div class="links">
