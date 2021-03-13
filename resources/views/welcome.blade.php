@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md" style="background-color:red;">
-                    practice
+                    Practice
                 </div>
 
                 <div class="links">
